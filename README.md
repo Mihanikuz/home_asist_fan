@@ -89,6 +89,7 @@ After uploading the code:
 ### Production Files
 - [Gerber files](production/Gerber_t-fun_PCB_t-fun_4_2025-05-18.zip) - for PCB manufacturing
 - [BOM (Bill of Materials)](production/BOM_t-fun_2025-05-18.csv) - component list
+- [3D(https://github.com/Vasilichru/3d_home_assist_fan_case) - case from wts_3d(https://t.me/wts_3d)
 
 ### Component Links
 All components are available on [ChipDip](https://www.chipdip.ru/). Links to specific components are provided in the BOM file.
