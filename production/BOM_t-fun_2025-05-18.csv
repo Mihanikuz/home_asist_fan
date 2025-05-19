@@ -1,0 +1,15 @@
+ID;Name;Designator;Footprint;Quantity;Manufacturer Part;Manufacturer
+1;100u25v;C1;CAP-D6.3?H5.5;1;;https://www.chipdip.ru/product/eeefk1e101xp
+2;22u16v;C2;CAP-D5.0?H5.5;1;;https://www.chipdip.ru/product0/9000565720
+3;0.1u;C3,C4,C5,C6;C0603;4;;https://www.chipdip.ru/product/grm21br71h104k
+4;SS34;D1;SMB_L4.3-W3.6-LS5.4-RD;1;SS34;https://www.chipdip.ru/product/ss34-umw
+5;DC-005-A;DC1;DC-IN-TH_DC-005-A-1;1;DC-005-A;https://www.chipdip.ru/product/ds-201
+6;100uH;L1;IND-SMD_L7.8-W7.8_SDR0805;1;SDR0805-101KL;https://www.chipdip.ru/product/sdr0805-101kl
+7;LED;LED1;LED0805_GREEN;1;NCD0805G1;
+8;SN74AHCT125DR;LOGIC;SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL;1;SN74AHCT125DR;https://www.chipdip.ru/product/sn74ahct125dr
+9;1k;R1,R2,R3,R4,R5;R0805;5;;
+10;0 Om;R6,R7;R0805;2;;
+11;ESP32-C3-SUPER-MINI;U1;ESP32-C3-SUPER-MINI;1;;
+12;SN74LV125APWR;U2;TSSOP-14_L5.0-W4.4-P0.65-LS6.4-BL;1;SN74LV125APWR;https://www.chipdip.ru/product0/8024469862
+13;KF2510-4P;U3,U4,U5,U6;CONN-TH_KF2510-4P;4;KF2510-4P;https://www.chipdip.ru/product0/8024469862ll
+14;LM2596S-5.0/NOPB;U7;TO-263-5_L10.2-W8.6-P1.70-LS14.4-BR;1;LM2596S-5.0/NOPB;https://www.chipdip.ru/product/lm2596s-5.0
